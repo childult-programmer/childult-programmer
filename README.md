@@ -12,4 +12,4 @@ My research focuses on building effective and efficient multimodal AI systems fo
   
 - **S Lee**, T Kim, J Shin, N Kim and Y Choi, **INSANet: INtra-INter Spectral Attention Network for Effective Feature Fusion of Multispectral Pedestrian Detection**. Feb. 2024, Sensors. [[paper](https://www.mdpi.com/1424-8220/24/4/1168)][[code](https://github.com/sejong-rcv/INSANet)]
 
-🔍[Google Scholar](https://scholar.google.com/citations?user=MO_dSVUAAAAJ&hl=ko) / 📅[Blog](https://childult-programmer.tistory.com/) / 📝[Homepage](https://childult-programmer.github.io/)
+🔍[Google Scholar](https://scholar.google.com/citations?user=MO_dSVUAAAAJ&hl=ko) / 📅[Blog](https://childult-programmer.github.io/) / 📝[Homepage](https://childult-programmer.github.io/)
