@@ -8,7 +8,7 @@ My research focuses on building effective and efficient multimodal AI systems fo
 ### 📃 Publications
 - **S Lee** and Y Choi, **CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large Vision-Language Models**. Jul. 2026, ICML. [[paper](https://icml.cc/virtual/2026/poster/60729)][[code](https://github.com/sejong-rcv/LiteLVLM)]
 
-- **S Lee**, S Kwon, J Shin, N Kim and Y Choi, **Multi-Modal Guided Multi-Source Domain Adaptation for Object Detection**. 2026, Knowledge-Based Systems. [[code](https://github.com/sejong-rcv/MS-DePro)]
+- **S Lee**, S Kwon, J Shin, N Kim and Y Choi, **Multi-Modal Guided Multi-Source Domain Adaptation for Object Detection**. 2026, Under Review. [[code](https://github.com/sejong-rcv/MS-DePro)]
   
 - **S Lee**, T Kim, J Shin, N Kim and Y Choi, **INSANet: INtra-INter Spectral Attention Network for Effective Feature Fusion of Multispectral Pedestrian Detection**. Feb. 2024, Sensors. [[paper](https://www.mdpi.com/1424-8220/24/4/1168)][[code](https://github.com/sejong-rcv/INSANet)]
 
