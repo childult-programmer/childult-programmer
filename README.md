@@ -1,4 +1,4 @@
-### 👋 Hello hello,
+### 👋 Hello,
 
 My research focuses on building effective and efficient multimodal AI systems for real-world environments. My goal is to develop AI/ML that can reliably assist humans in perceiving, understanding, and interacting with the real world, with long-term applications in autonomous driving and intelligent infotainment systems. I am deeply interested in exploring three key areas for a comprehensive understanding of multimodal:
 - **Effective Perception**: Developing reliable and effective perception (*e.g.,* object detection) systems through sensor fusion and domain adaptation/generalization approaches.
