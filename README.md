@@ -6,7 +6,7 @@ My research focuses on building effective and efficient multimodal AI systems fo
 - **Scale-efficient Training**: Exploring scalable and data-efficient training strategies for AI/ML systems to enable practical deployment in real-world applications with limited computational resources.
 
 ### 📃 Publications
-- **S Lee** and Y Choi, **CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large Vision-Language Models**. Jul. 2026, ICML. [[project](https://childult-programmer.github.io/LiteLVLM.github.io/)[paper](https://arxiv.org/abs/2605.13178)][[code](https://github.com/sejong-rcv/LiteLVLM)]
+- **S Lee** and Y Choi, **CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large Vision-Language Models**. Jul. 2026, ICML. [[project](https://childult-programmer.github.io/LiteLVLM.github.io/)][[paper](https://arxiv.org/abs/2605.13178)][[code](https://github.com/sejong-rcv/LiteLVLM)]
 
 - **S Lee**, S Kwon, J Shin, N Kim and Y Choi, **Multi-Modal Guided Multi-Source Domain Adaptation for Object Detection**. Jun. Knowledge-Based Systems, 2026. [[paper](https://arxiv.org/abs/2605.13140)][[code](https://github.com/sejong-rcv/MS-DePro)]
   
